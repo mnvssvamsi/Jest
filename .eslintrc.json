@@ -6,5 +6,5 @@
       "plugin:testing-library/react",
       // "plugin:testing-library/recommended",
       "plugin:jest-dom/recommended"
-    ]
+    ] 
   }
