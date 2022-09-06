@@ -9,8 +9,8 @@ const popover = (
     <Popover id="popover-basic">
       {/* <Popover.Header as="h3">Popover right</Popover.Header> */}
       <Popover.Body>
-        no icecream will be delivered
-      </Popover.Body>
+      no ice cream will actually be delivered
+            </Popover.Body>
     </Popover>
   );
 const checkboxLabel = (
