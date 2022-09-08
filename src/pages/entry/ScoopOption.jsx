@@ -1,4 +1,4 @@
-import Col from "react-bootstrap/esm/Col"
+import Col from "react-bootstrap/Col"
 
 const ScoopOption=({name,imagePath})=>{
     return <Col style={{textAlign:center}}>
